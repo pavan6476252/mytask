@@ -1,16 +1,34 @@
-# mytask
+# My Task
 
-A new Flutter project.
+An task remainder app developed using flutter
 
-## Getting Started
+## Installation
+Installation To install and run MyApp on your local machine, follow these steps:
 
-This project is a starting point for a Flutter application.
+1. Clone this repository using the following command:
+```
+git clone https://github.com/pavan6476252/fit_food.git
+```
+2. Navigate to the project directory and run the following command to download the required dependencies:
+```
+flutter pub get
+```
+3. Connect a device or start an emulator and run the app using the following command:
+```
+flutter run
+```
+### Features
+MyTask includes the following features:
+* task addingi / removing 
+* task notification
 
-A few resources to get you started if this is your first Flutter project:
+## Contributing
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Pull requests are welcome. For major changes, please open an issue first
+to discuss what you would like to change.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Please make sure to update tests as appropriate.
+
+## License
+
+[MIT](https://choosealicense.com/licenses/mit/)
